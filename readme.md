@@ -4,10 +4,16 @@
 
 System to connect teachers and students.
 
-## Preview
+## Preview Desktop
 
 <div align="center">
   <img src="https://ik.imagekit.io/rlpwchithd/Captura_de_Tela_2020-08-05_a_s_22.52.43_7c-R31q1r.png">
+</div>
+
+## Preview Mobile
+
+<div align="center">
+  <img src="https://ik.imagekit.io/rlpwchithd/Captura_de_Tela_2020-08-09_a_s_18.37.47_1IvmuuwiW.png">
 </div>
 
 ## Prerequisites
